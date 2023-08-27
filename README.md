@@ -1,3 +1,9 @@
+Launched "ACTIVE CODERS | Live": a coding resource hub featuring Data Structures, Open Source, Projects, Computer Fundamentals, Competitive Programming, Languages, Coding Contests, System Design, LinkedIn Influencers, and job-related YouTube channels. Aided 50+ students in adopting correct learning paths. Tech: HTML, CSS, Bootstrap.
+
+
+
+
+
 # Active-coders
 ![Screenshot (906)](https://user-images.githubusercontent.com/77665988/224285885-1c8ac44e-35bf-45cc-bf69-ac36b732a91e.png)
 ![Screenshot (907)](https://user-images.githubusercontent.com/77665988/224285901-9a78bb52-6ff9-421c-9d01-044fa32832dc.png)
